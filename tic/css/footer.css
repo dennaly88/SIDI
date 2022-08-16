@@ -1,0 +1,9 @@
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;/*largo*/
+    height: 60px; /* alto */
+    background: rgb(58, 57, 57);
+    
+  }

@@ -1,0 +1,9 @@
+body
+{
+background: rgb(206, 200, 200);
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+-ms-background-size: cover;
+background-size: cover;
+}
